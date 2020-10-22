@@ -1,0 +1,46 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.dll
+*.exe
+*.pdb
+/DemoDynamicContent-story1/DemoDynamicContent/bin/Debug/netcoreapp3.1
+/DemoDynamicContent-story1/DemoDynamicContent/obj/Debug/netcoreapp3.1/RazorDeclaration
+/DemoDynamicContent-story1/DemoDynamicContent/obj
+*.suo
+/DemoDynamicContent-story2/DemoDynamicContent/bin/Debug/netcoreapp3.1
+/DemoDynamicContent-story2/DemoDynamicContent/obj
+/DemoDynamicContent-story2/DemoRazorClassLibrary/bin/Debug/netstandard2.1
+/DemoDynamicContent-story2/DemoRazorClassLibrary/obj
+/DemoDynamicContent-story2/DemoShared/bin/Debug/netstandard2.1
+/DemoDynamicContent-story2/DemoShared/obj
+/DemoDynamicContent-story1/.vs/DemoDynamicContent/DesignTimeBuild/.dtbcache.v2
+/DemoDynamicContent-story2/.vs
+/DemoCastleProxy-story3/DemoCastleProxy/bin/Debug/netcoreapp3.1
+/DemoCastleProxy-story3/DemoCastleProxy/obj
+/DemoCastleProxy-story3/.vs/DemoCastleProxy-story3/v16/TestStore/0
+/DemoCastleProxy-story3/DemoCastleProxyTests/bin/Debug/netcoreapp3.1
+/DemoCastleProxy-story3/DemoCastleProxyTests/obj
+/DemoCatleProxyRestartableFlow-story4/DemoCatleProxy.RestartableFlow/obj
+/DemoCatleProxyRestartableFlow-story4/.vs/DemoCatleProxyRestartableFlow-story4/v16/TestStore/0
+/DemoCatleProxyRestartableFlow-story4/DemoCatleProxy.RestartableFlow/bin/Debug/netcoreapp3.1
+/DemoCatleProxyRestartableFlow-story4/DemoCatleProxy.RestartableFlow.Tests/bin/Debug/netcoreapp3.1
+/DemoCatleProxyRestartableFlow-story4/DemoCatleProxy.RestartableFlow.Tests/obj
+/DemoCastleProxy-story3/.vs/DemoCastleProxy-story3/DesignTimeBuild/.dtbcache.v2
+/DemoCatleProxyRestartableFlow-story4/.vs/DemoCatleProxyRestartableFlow-story4/DesignTimeBuild/.dtbcache.v2
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio 2015 cache/options directory
+.vs/
