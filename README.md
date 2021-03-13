@@ -5,3 +5,4 @@ repository for AWS related sample
 - Lambda
 - A poc to start with AWS Lambda in dotnet core 3.1
 - Build/Deploy the lambda in jenkins pipeline
+- test
