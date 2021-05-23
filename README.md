@@ -5,3 +5,10 @@ repository for AWS related sample
 - Lambda
 - A poc to start with AWS Lambda in dotnet core 3.1
 - Build/Deploy the lambda in jenkins pipeline
+
+# dotnet cli to install lambda template
+dotnet new -i "Amazon.Lambda.Templates::*"
+dotnet new lambda --list
+
+# create new function
+dotnet new lambda.EmptyFunction --name BlogFunction --profile default --region us-east-2

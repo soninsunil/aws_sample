@@ -6,6 +6,5 @@ pipeline {
         echo 'Preparing 1st step'
       }
     }
-
   }
 }
