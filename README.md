@@ -3,7 +3,7 @@ repository for AWS related sample
 
 # Objective - POC with AWS services
 - Lambda
-- A poc to start with AWS Lambda in dotnet core 3.1
+- A poc to start with AWS Lambda in dotnet core 6.0
 - Build/Deploy the lambda in jenkins pipeline
 
 # dotnet cli to install lambda template
