@@ -21,7 +21,7 @@ namespace MyFunction
         /// <returns></returns>
         public string FunctionHandler(NewUser input, ILambdaContext context)
         {
-            return $"Welcome: {input.FirstName} {input.LastName}";
+            return $"Welcome: - {input.FirstName} {input.LastName}";
         }
     }
 }
